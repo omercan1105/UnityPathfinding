@@ -1,5 +1,5 @@
 # UnityPathfinding
-A simple pathfinding system in Unity using A* algorithm and Manhattan movement
+A simple pathfinding system in Unity using A* algorithm with Manhattan distance for movement and Euclidean distance as a heuristic.
 
 All obstacles and goals are generated randomly. 
 
