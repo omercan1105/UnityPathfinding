@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
-    float moveSpeed = 3f;
+    float moveSpeed = 2f;
     Vector3 targetPosition;
     bool moving = false;
     bool goingToGoal = false;
